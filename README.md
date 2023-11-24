@@ -7,6 +7,7 @@
 * Coordinator
 * DI
 * Storage(NSCache)
+* Custom UI components
 
 ### Using API:
 https://rickandmortyapi.com/
