@@ -7,3 +7,6 @@
 * Coordinator
 * DI
 * Storage(NSCache)
+
+### Using API:
+https://rickandmortyapi.com/
